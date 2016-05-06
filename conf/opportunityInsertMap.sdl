@@ -1,0 +1,36 @@
+#Mapping values
+
+#Thu May 05 13:13:54 EDT 2016
+
+Description=Description
+
+Channel_Partner__c=Channel_Partner__c
+
+Business_Unit_WF__c=Business_Unit_WF__c
+
+Flight_Start_Date__c=Flight_Start_Date__c
+
+Digital_Strategist__c=Digital_Strategist__c
+
+Vertical__c=Vertical__c
+
+Name=Name
+
+Amount=Amount
+
+CM_item__c=CM_Item__c
+
+Flight_End_Date__c=Flight_End_Date__c
+
+RecordTypeId=RecordTypeId
+
+Signed_IO_uploaded__c=Signed_IO_uploaded__c
+
+StageName=StageName
+
+CloseDate=CloseDate
+
+OwnerID=OwnerId
+
+Reason_Won__c=Reason_Won__c
+
